@@ -1,0 +1,45 @@
+.header {
+   width: 100%;
+   height: 100px;
+   background-color: #E2D9DC;
+}
+
+.header-text {
+   margin-top: 20px;
+}
+
+.header h1 {
+   color: #2D2D34;
+   margin-top: 10px;
+   text-align: center;
+   font-family: "Raleway:600", sans-serif;
+   font-weight: 600;
+}
+
+.middle {
+   width: 100%;
+   height: 800px;
+}
+
+.middle-text {
+   text-align: center;
+}
+
+.middle img {
+   width: 300px;
+   height: 300px;
+   margin-left: 80px;
+   margin-top: 30px;
+}
+
+.footer {
+   width: 100%;
+   height: 100px;
+   background-color: #CEB1BE;
+}
+
+.footer h3 {
+   color: #2D2D34;
+   font-size: 20px;
+   text-align: center;
+}
